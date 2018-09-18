@@ -12,4 +12,8 @@ for char in word:
     print(char)
 
 for x in range(20, 30):
-    print(x)
+    print(2* x)
+for i in range(1, 11, 2):
+    print(i)
+for i in range(1, 10):
+    print(i, end="k")
