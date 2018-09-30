@@ -15,7 +15,7 @@ L = int(input("Wat is je lengte in inches? :"))
 G = int(input("Wat is je gewicht in ponden? :"))
 
 
-#Uitvoeringen
+#Executions
 
 BMI(L,G)
 
