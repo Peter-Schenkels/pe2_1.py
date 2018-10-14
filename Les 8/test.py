@@ -1,10 +1,2 @@
-
-list = [1, 12]
-h = input()
-for i in h:
-    if h in list:
-
-
-        print("poep")
-    else:
-        print("Hoi")
+file = open("test.txt")
+print(len(file.readlines()))

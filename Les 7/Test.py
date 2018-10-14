@@ -1,4 +1,6 @@
-import datetime
-vandaag = datetime.datetime.today()
-s = vandaag.strftime("%a %d %b %Y")
-print(s)
+dict = {"lol" : 1, "wow" : 2}
+
+# For example, I want to print every item that has a key with the value of 1
+# How do I do that
+
+

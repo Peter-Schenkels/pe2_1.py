@@ -1,0 +1,3 @@
+hoi;dit is een string
+2e line;hoi
+eee
