@@ -1,7 +1,7 @@
 
 
 def standaardtarief(afstandKM):
-    if afstandKM >= 50:
+    if afstandKM <= 50:
        totaal = afstandKM * 0.80
     else:
 
@@ -24,7 +24,7 @@ else:
 
 def ritprijs(leeftijd, weekendrit):
     ritprijs = 1.0
-    if leeftijd >= 65 or leeftijd < 12:
+    if leeftijd <= 65 or leeftijd < 12:
         ritprijs = ritprijs * 0.70
 
 
